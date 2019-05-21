@@ -1,0 +1,205 @@
+{
+  "_class": "document",
+  "assets": {
+    "_class": "assetCollection",
+    "colorAssets": [
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.3882352941176469,
+          "green": 0.8352941176470589,
+          "red": 0
+        }
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.6,
+          "green": 0.6,
+          "red": 0.6
+        }
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.9803921568627451,
+          "green": 0.9803921568627451,
+          "red": 0.9803921568627451
+        }
+      }
+    ],
+    "colors": [
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.3882352941176469,
+        "green": 0.8352941176470589,
+        "red": 0
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.6,
+        "green": 0.6,
+        "red": 0.6
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.9803921568627451,
+        "green": 0.9803921568627451,
+        "red": 0.9803921568627451
+      }
+    ],
+    "gradientAssets": [
+    ],
+    "gradients": [
+    ],
+    "imageCollection": {
+      "_class": "imageCollection",
+      "images": {
+      }
+    },
+    "images": [
+    ]
+  },
+  "colorSpace": 0,
+  "do_objectID": "207293B8-8F1E-4565-BDAE-3616D6242C55",
+  "enableLayerInteraction": true,
+  "enableSliceInteraction": true,
+  "foreignLayerStyles": [
+  ],
+  "foreignSymbols": [
+  ],
+  "foreignTextStyles": [
+  ],
+  "layerSymbols": {
+    "_class": "symbolContainer",
+    "objects": [
+    ]
+  },
+  "meta": {
+    "appVersion": "54.1",
+    "build": 76490,
+    "version": 118
+  },
+  "pages": [
+    "Cover",
+    "Symbols"
+  ],
+  "userInfo": {
+    "com.invisionlabs.sync": {
+      "metadata": "{\"hasSynced\":0,\"hasProjectIdChanged\":0,\"projectId\":0,\"publicLink\":\"\",\"resolution\":2,\"syncAll\":1}"
+    },
+    "com.plant.plantplugin": {
+      "plant_doc_id": "3AF492AB-CB88-4770-ADE5-FC03F146C7BA"
+    },
+    "flowArrows": {
+      "arrowConnections": [
+        {
+          "direction": "Right",
+          "firstObject": "7A8F5BE7-9601-4632-A477-4D3048AB00FA",
+          "line": "DECF2DCE-AAE5-4C9B-991D-DF3A5A0AE18C",
+          "secondObject": "D99AFF7C-1E07-47D3-A600-7AF6E30E1A09",
+          "style": "$arrow",
+          "type": "Angled"
+        },
+        {
+          "direction": "Right",
+          "firstObject": "7A8F5BE7-9601-4632-A477-4D3048AB00FA",
+          "line": "24DD811D-8134-4DB7-A72F-D8FEE70611FF",
+          "secondObject": "6AACFEE6-6B85-4E2E-983B-9CDD41484AAB",
+          "style": "$arrow",
+          "type": "Angled"
+        },
+        {
+          "direction": "Right",
+          "firstObject": "7A8F5BE7-9601-4632-A477-4D3048AB00FA",
+          "line": "FA8C634A-192E-475A-8137-19DEFB1E5D09",
+          "secondObject": "6B0F32D3-57E8-40F4-BCC0-A641401141D0",
+          "style": "$arrow",
+          "type": "Angled"
+        },
+        {
+          "direction": "Right",
+          "firstObject": "7A8F5BE7-9601-4632-A477-4D3048AB00FA",
+          "line": "0BF43A7E-FCA1-4FA9-9E73-0CCB7422B49A",
+          "secondObject": "D5B8937F-52D0-4E62-86B1-DDE27301F897",
+          "style": "$arrow",
+          "type": "Angled"
+        },
+        {
+          "direction": "Right",
+          "firstObject": "D99AFF7C-1E07-47D3-A600-7AF6E30E1A09",
+          "line": "5FFBB31E-28D1-437A-ADCB-DBF02E8DBC10",
+          "secondObject": "7B3B892E-B6DA-4C29-9113-27846C36651B",
+          "style": "$arrow",
+          "type": "Angled"
+        },
+        {
+          "direction": "Down",
+          "firstObject": "D5B8937F-52D0-4E62-86B1-DDE27301F897",
+          "line": "29FB57FD-EC8D-4362-ADE9-6F7542FB23DC",
+          "secondObject": "AC8FB6CE-16DE-4A0F-B336-2EB95ED5E4B3",
+          "style": "$arrow",
+          "type": "Angled"
+        },
+        {
+          "direction": "Right",
+          "firstObject": "AB3F54BF-7D81-4F51-9582-AFABB71726C1",
+          "line": "293FEC50-E070-43C6-8E42-AC37C119F9BA",
+          "secondObject": "E6AC8048-05F8-4C9B-856B-2F6FA8DEE3D7",
+          "style": "$arrow",
+          "type": "Angled"
+        },
+        {
+          "direction": "Right",
+          "firstObject": "AC8FB6CE-16DE-4A0F-B336-2EB95ED5E4B3",
+          "line": "DF327254-7862-4D98-AC78-D144F870DA57",
+          "secondObject": "5DE7C631-3F57-4A0C-A3BA-35577F368C0B",
+          "style": "$arrow",
+          "type": "Angled"
+        },
+        {
+          "direction": "Right",
+          "firstObject": "AB3F54BF-7D81-4F51-9582-AFABB71726C1",
+          "line": "EB0CE735-F070-4CD5-9132-97B3014D19B9",
+          "secondObject": "63099136-FCA3-4A30-8715-C3A94927067E",
+          "style": "$arrow",
+          "type": "Angled"
+        },
+        {
+          "direction": "Right",
+          "firstObject": "D99AFF7C-1E07-47D3-A600-7AF6E30E1A09",
+          "line": "29BD7D60-FDBE-4DC1-B0AD-55CB72428940",
+          "secondObject": "1C6D1CE5-5577-43A1-92FC-D8B7EE90346B",
+          "style": "$arrow",
+          "type": "Angled"
+        },
+        {
+          "direction": "Down",
+          "firstObject": "AC8FB6CE-16DE-4A0F-B336-2EB95ED5E4B3",
+          "line": "8B942E8C-EC74-489A-8EE8-A6DEB4B5BB6F",
+          "secondObject": "44017AD0-FC5E-4889-A1A6-25C802309967",
+          "style": "$arrow",
+          "type": "Angled"
+        },
+        {
+          "direction": "Right",
+          "firstObject": "44017AD0-FC5E-4889-A1A6-25C802309967",
+          "line": "1367253F-FF68-4DCE-ABAA-63EADAD8938F",
+          "secondObject": "AB3F54BF-7D81-4F51-9582-AFABB71726C1",
+          "style": "$arrow",
+          "type": "Angled"
+        }
+      ],
+      "arrowStyle": "$arrow"
+    }
+  }
+}

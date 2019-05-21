@@ -1,0 +1,173 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.9803921568627451,
+    "green": 0.9803921568627451,
+    "red": 0.9803921568627451
+  },
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "D918BE3B-7ACE-4B98-83C1-A0A44AF9B4DB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 602,
+    "width": 800,
+    "x": 877,
+    "y": 411
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "gridSize": 8,
+    "isEnabled": false,
+    "thickGridTimes": 8
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "4DBC3B7C-E64D-4479-A7B2-980CE6167A7A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6AACFEE6-6B85-4E2E-983B-9CDD41484AAB"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6B0F32D3-57E8-40F4-BCC0-A641401141D0"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D5B8937F-52D0-4E62-86B1-DDE27301F897"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "AC8FB6CE-16DE-4A0F-B336-2EB95ED5E4B3"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "AB3F54BF-7D81-4F51-9582-AFABB71726C1"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1C6D1CE5-5577-43A1-92FC-D8B7EE90346B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "63099136-FCA3-4A30-8715-C3A94927067E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7A8F5BE7-9601-4632-A477-4D3048AB00FA"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5DE7C631-3F57-4A0C-A3BA-35577F368C0B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D99AFF7C-1E07-47D3-A600-7AF6E30E1A09"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "44017AD0-FC5E-4889-A1A6-25C802309967"
+    },
+    {
+      "class": "shapePath",
+      "id": "98D48B36-26AE-4CCF-B344-5873C9B0E845"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 50,
+    "drawHorizontal": true,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 50,
+    "gutterWidth": 50,
+    "guttersOutside": true,
+    "horizontalOffset": 0,
+    "isEnabled": false,
+    "numberOfColumns": 80,
+    "rowHeightMultiplication": 1,
+    "totalWidth": 8000
+  },
+  "name": "Cover",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}
