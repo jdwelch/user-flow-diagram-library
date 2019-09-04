@@ -71,8 +71,6 @@
   },
   "colorSpace": 0,
   "do_objectID": "207293B8-8F1E-4565-BDAE-3616D6242C55",
-  "enableLayerInteraction": true,
-  "enableSliceInteraction": true,
   "foreignLayerStyles": [
   ],
   "foreignSymbols": [
@@ -85,9 +83,9 @@
     ]
   },
   "meta": {
-    "appVersion": "54.1",
-    "build": 76490,
-    "version": 118
+    "appVersion": "57.1",
+    "build": 83088,
+    "version": 119
   },
   "pages": [
     "Cover",

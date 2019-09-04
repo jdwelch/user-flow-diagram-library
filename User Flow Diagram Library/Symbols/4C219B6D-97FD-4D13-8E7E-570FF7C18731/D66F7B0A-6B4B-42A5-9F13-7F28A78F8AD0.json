@@ -20,8 +20,7 @@
               "size": 14
             }
           },
-          "MSAttributedStringTextTransformAttribute": 1,
-          "kerning": 0.4000000059604645,
+          "kerning": 0,
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 2,
@@ -59,7 +58,7 @@
     "x": 8,
     "y": 16
   },
-  "glyphBounds": "{{26, 3}, {60, 24}}",
+  "glyphBounds": "{{31, 2}, {51, 25}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -73,9 +72,11 @@
   "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
+  "sharedStyleID": "9B54B3F4-6FC5-457D-B75E-DCF3B34E8E59",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "8B61A879-81D6-4DE7-AAC4-B152CFBEF6E1",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
@@ -96,8 +97,7 @@
             "size": 14
           }
         },
-        "MSAttributedStringTextTransformAttribute": 1,
-        "kerning": 0.4000000059604645,
+        "kerning": 0,
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 2,
