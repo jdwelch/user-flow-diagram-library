@@ -60,8 +60,12 @@
       "id": "F64CE35B-CEA8-46C8-88F0-C8140916ED99"
     },
     {
+      "class": "symbolMaster",
+      "id": "A5A4FBDB-B434-4E3E-A66D-08A8A94FF261"
+    },
+    {
       "class": "group",
-      "id": "0DC27730-B775-4E40-B10E-EB756F0F29C3"
+      "id": "322D9668-6304-4476-9841-F6EB35D18613"
     }
   ],
   "name": "Symbols",

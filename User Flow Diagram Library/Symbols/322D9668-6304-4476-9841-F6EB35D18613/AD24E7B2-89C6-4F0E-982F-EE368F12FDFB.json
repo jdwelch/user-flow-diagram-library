@@ -27,16 +27,16 @@
             "minimumLineHeight": 24
           }
         },
-        "length": 5,
+        "length": 8,
         "location": 0
       }
     ],
-    "string": "Block"
+    "string": "Swimlane"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "E2AC8A5D-10C6-41D1-A45A-ACE17B190D8E",
+  "do_objectID": "AD24E7B2-89C6-4F0E-982F-EE368F12FDFB",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -51,11 +51,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 24,
-    "width": 56,
-    "x": 20,
-    "y": 248
+    "width": 97,
+    "x": 0,
+    "y": 512
   },
-  "glyphBounds": "{{1, 4}, {55, 16}}",
+  "glyphBounds": "{{1, 3}, {96, 17}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -64,7 +64,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Block",
+  "name": "Swimlane",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -73,7 +73,7 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "03E5DDE1-DF87-4757-A7B3-085999BA0AD7",
+    "do_objectID": "FDF3F63D-ACAD-4E3A-A31F-4154BA166E35",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,

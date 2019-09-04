@@ -8,10 +8,10 @@
     "green": 1,
     "red": 1
   },
-  "booleanOperation": 0,
-  "changeIdentifier": 333,
+  "booleanOperation": -1,
+  "changeIdentifier": 121,
   "clippingMaskMode": 0,
-  "do_objectID": "4C219B6D-97FD-4D13-8E7E-570FF7C18731",
+  "do_objectID": "A5A4FBDB-B434-4E3E-A66D-08A8A94FF261",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -24,10 +24,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 64,
+    "height": 26,
     "width": 128,
     "x": 0,
-    "y": 248
+    "y": 512
   },
   "grid": {
     "_class": "simpleGrid",
@@ -56,27 +56,32 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
-      "class": "rectangle",
-      "id": "447AFE0C-49FB-4FCA-A836-C72D4BAC9C54"
+      "class": "text",
+      "id": "5E65F9DE-923F-4963-9D0A-9B53FABD96D4"
     },
     {
-      "class": "text",
-      "id": "D66F7B0A-6B4B-42A5-9F13-7F28A78F8AD0"
+      "class": "rectangle",
+      "id": "52ADA4D2-B570-438E-92F4-636A625F7484"
     }
   ],
-  "name": "Block/Action",
-  "nameIsFixed": true,
+  "name": "Swimlane",
+  "nameIsFixed": false,
   "overrideProperties": [
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "D66F7B0A-6B4B-42A5-9F13-7F28A78F8AD0_stringValue"
+      "overrideName": "5E65F9DE-923F-4963-9D0A-9B53FABD96D4_textStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "5E65F9DE-923F-4963-9D0A-9B53FABD96D4_stringValue"
     }
   ],
-  "resizesContent": false,
+  "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
@@ -88,7 +93,7 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "382ECAEF-E873-42C7-A47F-685826684A31",
+  "symbolID": "4C53C462-995A-443C-8CBE-CD0031CD09EC",
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,

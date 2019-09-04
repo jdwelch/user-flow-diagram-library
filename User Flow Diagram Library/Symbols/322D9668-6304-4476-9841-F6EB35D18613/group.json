@@ -2,7 +2,7 @@
   "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "0DC27730-B775-4E40-B10E-EB756F0F29C3",
+  "do_objectID": "322D9668-6304-4476-9841-F6EB35D18613",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": true,
-    "height": 272,
-    "width": 76,
-    "x": -156,
-    "y": 0
+    "height": 536,
+    "width": 97,
+    "x": -177,
+    "y": -8
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -34,11 +34,15 @@
   "layers": [
     {
       "class": "text",
-      "id": "205ADB03-C596-4E63-8C43-4B12F5D48C24"
+      "id": "2CDCAB3A-5185-4B46-8551-F1918F310228"
     },
     {
       "class": "text",
-      "id": "E2AC8A5D-10C6-41D1-A45A-ACE17B190D8E"
+      "id": "C16B1AD6-F369-453D-89FA-60909FF52B71"
+    },
+    {
+      "class": "text",
+      "id": "AD24E7B2-89C6-4F0E-982F-EE368F12FDFB"
     }
   ],
   "name": "Titles",

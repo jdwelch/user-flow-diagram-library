@@ -9,34 +9,38 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 1,
-            "green": 1,
-            "red": 1
+            "blue": 0.16,
+            "green": 0.1501866666666667,
+            "red": 0.1344
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "SFProText-Bold",
-              "size": 20
+              "name": "Calibre-Semibold",
+              "size": 14
             }
           },
+          "MSAttributedStringTextTransformAttribute": 1,
+          "kerning": 0.4000000059604645,
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "alignment": 1,
-            "maximumLineHeight": 24,
-            "minimumLineHeight": 24
+            "alignment": 0,
+            "allowsDefaultTighteningForTruncation": 0,
+            "baseWritingDirection": 0,
+            "maximumLineHeight": 14,
+            "minimumLineHeight": 14
           }
         },
-        "length": 6,
+        "length": 5,
         "location": 0
       }
     ],
-    "string": "Answer"
+    "string": "Steps"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "205ADB03-C596-4E63-8C43-4B12F5D48C24",
+  "do_objectID": "5E65F9DE-923F-4963-9D0A-9B53FABD96D4",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -50,12 +54,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 24,
-    "width": 76,
+    "height": 14,
+    "width": 40,
     "x": 0,
-    "y": 0
+    "y": 12
   },
-  "glyphBounds": "{{0, 4}, {75, 16}}",
+  "glyphBounds": "{{0, 3}, {39, 10}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -64,16 +68,15 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Answer",
+  "name": "Steps",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "0691BE9C-3169-4DB3-B93F-453D4E0F275B",
+  "sharedStyleID": "3728947A-7785-4EA8-82F8-96B5FD3E0E1A",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "D88D8DDD-60BD-4D55-8621-F4F4ED6012F9",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
@@ -83,27 +86,38 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 1,
-          "green": 1,
-          "red": 1
+          "blue": 0.16,
+          "green": 0.1501866666666667,
+          "red": 0.1344
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "SFProText-Bold",
-            "size": 20
+            "name": "Calibre-Semibold",
+            "size": 14
           }
         },
+        "MSAttributedStringTextTransformAttribute": 1,
+        "kerning": 0.4000000059604645,
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "alignment": 1,
-          "maximumLineHeight": 24,
-          "minimumLineHeight": 24
+          "alignment": 0,
+          "allowsDefaultTighteningForTruncation": 0,
+          "baseWritingDirection": 0,
+          "maximumLineHeight": 14,
+          "minimumLineHeight": 14
         }
       },
       "verticalAlignment": 0
     },
     "windingRule": 1
   },
-  "textBehaviour": 0
+  "textBehaviour": 0,
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "isAutoWidth": 1
+      }
+    }
+  }
 }
