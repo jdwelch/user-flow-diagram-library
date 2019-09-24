@@ -27,16 +27,16 @@
             "minimumLineHeight": 24
           }
         },
-        "length": 8,
+        "length": 6,
         "location": 0
       }
     ],
-    "string": "Swimlane"
+    "string": "Answer"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "AD24E7B2-89C6-4F0E-982F-EE368F12FDFB",
+  "do_objectID": "8AC178BA-6CCB-4612-BF74-845B0FEC3F92",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -51,11 +51,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 24,
-    "width": 97,
-    "x": 0,
-    "y": 512
+    "width": 76,
+    "x": 21,
+    "y": 216
   },
-  "glyphBounds": "{{1, 3}, {96, 17}}",
+  "glyphBounds": "{{0, 4}, {75, 16}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -64,7 +64,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Swimlane",
+  "name": "Answer",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -73,7 +73,7 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "FDF3F63D-ACAD-4E3A-A31F-4154BA166E35",
+    "do_objectID": "CCA59E51-9935-4EAA-A0DE-20C7E10D59E5",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,

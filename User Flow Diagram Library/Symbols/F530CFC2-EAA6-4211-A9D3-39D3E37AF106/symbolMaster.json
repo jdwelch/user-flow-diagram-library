@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 257,
+  "changeIdentifier": 259,
   "clippingMaskMode": 0,
   "do_objectID": "F530CFC2-EAA6-4211-A9D3-39D3E37AF106",
   "exportOptions": {
@@ -27,7 +27,7 @@
     "height": 64,
     "width": 128,
     "x": 208,
-    "y": 248
+    "y": 464
   },
   "grid": {
     "_class": "simpleGrid",
@@ -56,7 +56,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "rectangle",
@@ -74,6 +74,11 @@
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
       "overrideName": "13CB3D5B-1751-4DCA-85C8-7BE795292DDC_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "13CB3D5B-1751-4DCA-85C8-7BE795292DDC_textStyle"
     }
   ],
   "resizesContent": true,

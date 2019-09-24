@@ -41,6 +41,10 @@
   "layers": [
     {
       "class": "symbolMaster",
+      "id": "423E2492-641E-497F-8501-ACA8D2907323"
+    },
+    {
+      "class": "symbolMaster",
       "id": "3D471FAA-4F19-4F09-A2DB-952EB76E67C7"
     },
     {
@@ -65,7 +69,7 @@
     },
     {
       "class": "group",
-      "id": "322D9668-6304-4476-9841-F6EB35D18613"
+      "id": "41B62C12-5991-4101-A4CD-4942E6AFAF8A"
     }
   ],
   "name": "Symbols",

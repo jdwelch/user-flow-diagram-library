@@ -5,15 +5,17 @@
     "_class": "color",
     "alpha": 1,
     "blue": 1,
+    "do_objectID": "74CCCA82-2534-46FE-BBC4-3E4022E11AF3",
     "green": 1,
     "red": 1
   },
-  "booleanOperation": 0,
-  "changeIdentifier": 36,
+  "booleanOperation": -1,
+  "changeIdentifier": 121,
   "clippingMaskMode": 0,
-  "do_objectID": "3D471FAA-4F19-4F09-A2DB-952EB76E67C7",
+  "do_objectID": "423E2492-641E-497F-8501-ACA8D2907323",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "79AC0F4F-1DAA-49BD-AFA8-02DD73758857",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -24,13 +26,21 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 48,
-    "width": 48,
+    "do_objectID": "EB5EC679-AE20-4913-AC03-FF90C02D6040",
+    "height": 16,
+    "width": 150,
     "x": 0,
-    "y": 216
+    "y": 0
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "gridSize": 8,
+    "isEnabled": true,
+    "thickGridTimes": 8
   },
   "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout"
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "CC6A305E-BE22-4F7D-BA57-9EDD19842EA7"
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -38,6 +48,7 @@
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
+    "do_objectID": "D3EDCDDE-2EDD-4674-8960-E5308157264D",
     "guides": [
     ]
   },
@@ -50,24 +61,30 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "oval",
-      "id": "A9BA22A2-BDE5-4667-A0B0-95EB571124A4"
+      "class": "shapeGroup",
+      "id": "8577697B-0756-4997-8559-86E96D68C408"
     },
     {
-      "class": "shapePath",
-      "id": "A13BFD46-616C-4294-9AB2-9D85189E5868"
-    },
-    {
-      "class": "shapePath",
-      "id": "0E1676C3-F814-455E-8AB6-C6B99205C5EE"
+      "class": "text",
+      "id": "F6F86A41-6B9E-47EF-BDE3-B5AFB577D4E6"
     }
   ],
-  "name": "Answer/No",
-  "nameIsFixed": true,
+  "name": "Actor",
+  "nameIsFixed": false,
   "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "F6F86A41-6B9E-47EF-BDE3-B5AFB577D4E6_textStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "F6F86A41-6B9E-47EF-BDE3-B5AFB577D4E6_stringValue"
+    }
   ],
   "resizesContent": false,
   "resizingConstraint": 63,
@@ -76,15 +93,17 @@
   "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
+    "do_objectID": "95C2C8A3-460C-4BA8-B8E7-886607FD2556",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "29F70D27-C059-47B8-AD2F-77033C24DFEF",
+  "symbolID": "51F14E36-4146-4A51-BC85-FAE899B07E1E",
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,
+    "do_objectID": "729F2342-D205-4069-9028-2CFA475125FA",
     "guides": [
     ]
   }

@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 333,
+  "changeIdentifier": 334,
   "clippingMaskMode": 0,
   "do_objectID": "4C219B6D-97FD-4D13-8E7E-570FF7C18731",
   "exportOptions": {
@@ -27,7 +27,7 @@
     "height": 64,
     "width": 128,
     "x": 0,
-    "y": 248
+    "y": 464
   },
   "grid": {
     "_class": "simpleGrid",
@@ -56,7 +56,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "rectangle",

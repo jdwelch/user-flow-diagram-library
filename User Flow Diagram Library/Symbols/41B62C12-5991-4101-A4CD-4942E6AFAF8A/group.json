@@ -2,7 +2,7 @@
   "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "322D9668-6304-4476-9841-F6EB35D18613",
+  "do_objectID": "41B62C12-5991-4101-A4CD-4942E6AFAF8A",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,7 +15,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": true,
-    "height": 536,
+    "height": 752,
     "width": 97,
     "x": -177,
     "y": -8
@@ -34,15 +34,19 @@
   "layers": [
     {
       "class": "text",
-      "id": "2CDCAB3A-5185-4B46-8551-F1918F310228"
+      "id": "C1988DF7-F83C-4DCD-8019-5BBBCD11B17A"
     },
     {
       "class": "text",
-      "id": "C16B1AD6-F369-453D-89FA-60909FF52B71"
+      "id": "8AC178BA-6CCB-4612-BF74-845B0FEC3F92"
     },
     {
       "class": "text",
-      "id": "AD24E7B2-89C6-4F0E-982F-EE368F12FDFB"
+      "id": "539FEA8E-B667-486A-868B-21F50128B923"
+    },
+    {
+      "class": "text",
+      "id": "97B50CBF-C019-41E9-A4F1-0AD576571016"
     }
   ],
   "name": "Titles",
